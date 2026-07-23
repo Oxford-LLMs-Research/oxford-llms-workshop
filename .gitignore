@@ -1,0 +1,14 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Editors
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
