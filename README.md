@@ -8,11 +8,15 @@ Oxford LLMs addresses these challenges by uniting machine learning scientists, l
 
 This collection brings together lecture slides, workshop materials, and practical guides from our past iterations of the "Oxford LLMs" summer school for social sciences. The content spans foundational concepts to advanced applications—from transformer architectures and model interpretability to fine-tuning techniques and LLM agent systems. Whether you’re exploring core NLP principles or specialized implementations like retrieval-augmented generation, these materials provide both theoretical grounding and hands-on guidance. All resources are openly available for researchers, practitioners, and students working with LLMs in their research!
 
+Every edition pairs that technical instruction with **research talks from social scientists** who use these methods in their own empirical work — on opinion prediction, censorship and information control, text-as-data methods, replication, protest and political communication, and the ethics of deploying models in research. Those talks are what keep the school anchored to social science questions rather than to the tooling, and the speakers are credited in each year's section below.
+
 > **This repository is still growing.** We add materials as speakers clear them for release, so a session missing today may well be here next month. We are also editing the **lecture and research talk recordings** from the school and will publish them openly once post-production is done. Watch this space.
 
 ## 2026
 
-The 2026 school was taught almost entirely by practitioners building language models in industry, and the collaborative research project ran the full week as a live common-task benchmark — the [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge), in which teams predicted individual survey responses and disclosed the features and prompts behind every prediction. Lectures came from **Tatiana Shavrina** (Meta), **Sagi Shaier** (JGU Mainz), **Ilya Boytsov** and **Ibragim Badertdinov** and **Sergei Skvortsov** (Nebius), and **Piotr Mazurek** (Liquid.AI), with guest research talks from social scientists working with these methods.
+The 2026 school was taught almost entirely by practitioners building language models in industry, and the collaborative research project ran the full week as a live common-task benchmark — the [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge), in which teams predicted individual survey responses and disclosed the features and prompts behind every prediction.
+
+Lectures came from **Tatiana Shavrina** (Meta), **Sagi Shaier** (JGU Mainz), **Ilya Boytsov**, **Ibragim Badertdinov**, and **Sergei Skvortsov** (Nebius), and **Piotr Mazurek** (Liquid.AI). Research talks came from **Margaret E. Roberts** (UC San Diego) on the politics of AI and information control, **Christopher Barrie** (NYU) on replication with language models, **Andreu Casas** (Oxford) on computational methods for political communication, **Elliott Ash** (ETH Zurich) on text-as-data in law and economics, and **Roberto-Rafael Maura-Rivero** (Meta and Oxford) on alignment and social choice.
 
 ### Lectures
 
@@ -26,6 +30,8 @@ The 2026 school was taught almost entirely by practitioners building language mo
 
 - [Replication with Language Models](./materials/talks/2026/Replication%20with%20Language%20Models%20-%20Christopher%20Barrie.pdf) by Christopher Barrie (New York University).
 
+Also given, with slides to follow as they are cleared for release: Margaret E. Roberts (UC San Diego), Andreu Casas (University of Oxford), Elliott Ash (ETH Zurich), and Roberto-Rafael Maura-Rivero (Meta and University of Oxford).
+
 ### Challenge
 
 - [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge) — starter notebook and scoring setup.
@@ -36,7 +42,9 @@ More 2026 sessions — including efficient inference and compression, inference 
 
 ## 2025
 
-The 2025 programme covered LLM fundamentals, evaluation and monitoring, agents and safety, fine-tuning, and efficient inference, alongside a Kaggle-style prediction competition on survey response prediction.
+The 2025 programme covered LLM fundamentals, evaluation and monitoring, agents and safety, fine-tuning, and efficient inference, alongside a Kaggle-style prediction competition on survey response prediction. Lectures and seminars came from **Mikhail Burtsev** (London Institute for Mathematical Sciences), **Emeli Dral** (Evidently AI), **Ilya Boytsov**, **Grigory Sapunov** (Intento), **Tatiana Shavrina** (Meta), **Sergei Skvortsov** (Nebius), and **Denis Volk** (AI safety).
+
+Research talks came from **Raymond Duch** (Nuffield College, Oxford), **Kosuke Imai** (Harvard), **Charles Rahal** (Oxford), **Brandon Stewart** (Princeton), and **Joan Timoneda** (Purdue).
 
 ### Seminars
 
@@ -74,6 +82,11 @@ Building on the 2023 program, the materials in 2024 feature both the fundamental
 - [Gemeni Model Deep Dive](https://docs.google.com/presentation/d/1-_vJmcpJjDAY5zh60DR834yUwYyR-XlSZ5amC0sLfZg/edit?usp=sharing) by Christian Silva.
 
 - [ORI's Guide to Self Hosting LLMs](/assets/presentations/oxford_llm_lecture_fowler.pdf) by Ciera Fowler.
+
+
+### Research talks
+
+The 2024 school hosted seven research talks from social scientists applying these methods: **Lisa P. Argyle** (Brigham Young University), **Chris Barrie** (New York University), **Raymond Duch** (Nuffield College, Oxford), **Thomas Hegghammer** (All Souls College, Oxford), **Neil Ketchley** (St Antony's College, Oxford), **Allison Koh** (University of Birmingham), and **Alexis Palmer** (Dartmouth College).
 
 
 ## 2023
