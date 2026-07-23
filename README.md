@@ -8,6 +8,44 @@ Oxford LLMs addresses these challenges by uniting machine learning scientists, l
 
 This collection brings together lecture slides, workshop materials, and practical guides from our past iterations of the "Oxford LLMs" summer school for social sciences. The content spans foundational concepts to advanced applications—from transformer architectures and model interpretability to fine-tuning techniques and LLM agent systems. Whether you’re exploring core NLP principles or specialized implementations like retrieval-augmented generation, these materials provide both theoretical grounding and hands-on guidance. All resources are openly available for researchers, practitioners, and students working with LLMs in their research!
 
+> **This repository is still growing.** We add materials as speakers clear them for release, so a session missing today may well be here next month. We are also editing the **lecture and research talk recordings** from the school and will publish them openly once post-production is done. Watch this space.
+
+## 2026
+
+The 2026 school was taught almost entirely by practitioners building language models in industry, and the collaborative research project ran the full week as a live common-task benchmark — the [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge), in which teams predicted individual survey responses and disclosed the features and prompts behind every prediction. Lectures came from **Tatiana Shavrina** (Meta), **Sagi Shaier** (JGU Mainz), **Ilya Boytsov** and **Ibragim Badertdinov** and **Sergei Skvortsov** (Nebius), and **Piotr Mazurek** (Liquid.AI), with guest research talks from social scientists working with these methods.
+
+### Lectures
+
+- [LLM Agents and Evaluation](./materials/lectures/2026/LLM%20Agents%20and%20Evaluation%20-%20Tatiana%20Shavrina.pdf) by Tatiana Shavrina — a survey of how language model agents are built and, harder, how they are evaluated.
+
+- [Continual Learning: Why Models Forget, and What We Can Do About It](./materials/lectures/2026/Continual%20Learning%20-%20Sagi%20Shaier.pdf) by Sagi Shaier.
+
+- [From Web Data to Verifiable Worlds](./materials/lectures/2026/From%20Web%20Data%20to%20Verifiable%20Worlds%20-%20Ibragim%20Badertdinov.pdf) by Ibragim Badertdinov — how data, evaluations, and RL environments shape modern language models.
+
+### Research talks
+
+- [Replication with Language Models](./materials/talks/2026/Replication%20with%20Language%20Models%20-%20Christopher%20Barrie.pdf) by Christopher Barrie (New York University).
+
+### Challenge
+
+- [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge) — starter notebook and scoring setup.
+- [Challenge dataset](https://huggingface.co/datasets/oxford-llms/ai-respondents-challenge) on Hugging Face.
+- [Final leaderboard](https://llmsforsocialscience.net/research/challenge/), including the held-out surveys revealed on the last day.
+
+More 2026 sessions — including efficient inference and compression, inference economics, and the remaining guest talks — will be added here as they are cleared for release.
+
+## 2025
+
+The 2025 programme covered LLM fundamentals, evaluation and monitoring, agents and safety, fine-tuning, and efficient inference, alongside a Kaggle-style prediction competition on survey response prediction.
+
+### Seminars
+
+- [LLM Fundamentals](./materials/seminars/2025/%5Bseminar%5D_LLM_Fundamentals.ipynb) — a hands-on notebook of exercises on pretraining data preparation, tokenization, chat templates, decoding strategies, and attention.
+
+- [Post-training: SFT, DPO, and GRPO](./materials/seminars/2025/post_training) — a hands-on notebook with datasets and training code covering the LLM lifecycle, in-context learning, supervised fine-tuning, RL, direct preference optimisation, reasoning models, and GRPO.
+
+Remaining 2025 lecture slides are being collected from speakers and will be published here.
+
 ## 2024
 
 Building on the 2023 program, the materials in 2024 feature both the fundamentals of LLMs, applied tutorials, and recent advancements. Particularly, the program delves deep into foundational concepts in model architecture and evaluation. Subsequent lectures explore agent-based systems and advanced fine-tuning techniques. The practical components address specialized applications including retrieval-augmented generation for social science research, implementation of observability tools, and workflow development for LLM agents. Technical deep dives cover the Gemini architecture and practical considerations for self-hosting models, providing end-to-end perspectives on contemporary LLM applications. **Grigory Sapunov**, **Tatiana Shavrina**, and **Ilya Boytsov** developed the lecture materials, with seminar contributions from **Atita Arora**, **John Githuly**, **Christian Silva**, and **Ciera Fowler**. See the full list of materials below:
@@ -62,6 +100,23 @@ We will upload the workshop recordings soon!
 - [Detoxifying summarisation model with Reinforcement Learning from Human Feedback (RLHF)](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/2023/day_3/8_LLMs%20alignment%20with%20RLHF.ipynb)
 
 ## Contributors
+
+### 2026
+
+- [Tatiana Shavrina, Lecturer](https://scholar.google.com/citations?user=sdmdZh8AAAAJ), Research Scientist Manager, Meta
+- [Sagi Shaier, Lecturer](https://sagishaier.com/), Visiting Professor, Johannes Gutenberg University Mainz
+- [Ilya Boytsov, Lecturer, Organiser](https://www.linkedin.com/in/ieboytsov/), Sr. ML Engineer, Nebius
+- [Ibragim Badertdinov, Lecturer](https://ibragim.dev/), Lead Engineer, Nebius
+- [Sergei Skvortsov, Lecturer](), Lead ML Engineer, Nebius
+- [Piotr Mazurek, Lecturer](https://www.tensoreconomics.com/), Member of Technical Staff, Liquid.AI
+- [Christopher Barrie, Research Talk](https://www.cjbarrie.com/), Assistant Professor of Sociology, New York University
+- [Elliott Ash, Research Talk](https://elliottash.com/), Associate Professor of Law, Economics and Data Science, ETH Zurich
+- [Andreu Casas, Research Talk](), Politics and the Oxford Internet Institute, University of Oxford
+- [Roberto-Rafael Maura-Rivero, Research Talk](https://sites.google.com/view/rrmaura/), Research Engineer at Meta and Postdoctoral Researcher, University of Oxford
+- [Margaret E. Roberts, Research Talk](https://margaretroberts.net/), Professor of Political Science, University of California San Diego
+- [Joshua Berry, Organiser](), Nuffield College, Oxford University
+- [Elodie Chervin, Organiser](), Nuffield College, Oxford University
+- [Maksim Zubok, Lead Organiser](https://www.linkedin.com/in/maksim-zubok-160572232/), Nuffield College, Oxford University
 
 ### 2024
 
