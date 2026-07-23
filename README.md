@@ -42,7 +42,7 @@ More 2026 sessions — including efficient inference and compression, inference 
 
 ## 2025
 
-The 2025 programme covered LLM fundamentals, evaluation and monitoring, agents and safety, fine-tuning, and efficient inference, alongside a Kaggle-style prediction competition on survey response prediction. Lectures and seminars came from **Mikhail Burtsev** (London Institute for Mathematical Sciences), **Emeli Dral** (Evidently AI), **Ilya Boytsov**, **Grigory Sapunov** (Intento), **Tatiana Shavrina** (Meta), and **Sergei Skvortsov** (Nebius).
+The 2025 programme covered LLM fundamentals, evaluation and monitoring, agents and safety, fine-tuning, and efficient inference, alongside a Kaggle-style prediction competition on survey response prediction. Lectures and seminars came from **Mikhail Burtsev** (London Institute for Mathematical Sciences), **Emeli Dral** (Evidently AI), **Ilya Boytsov**, **Grigory Sapunov** (Intento), **Tatiana Shavrina** (Meta), **Sergei Skvortsov** (Nebius), and **Denis Volk** (AI safety).
 
 Research talks came from **Raymond Duch** (Nuffield College, Oxford), **Kosuke Imai** (Harvard), **Charles Rahal** (Oxford), **Brandon Stewart** (Princeton), and **Joan Timoneda** (Purdue).
 
