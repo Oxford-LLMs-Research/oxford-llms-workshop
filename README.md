@@ -26,6 +26,8 @@ Lectures came from **Tatiana Shavrina** (Meta), **Sagi Shaier** (JGU Mainz), **I
 
 - [From Web Data to Verifiable Worlds](./materials/lectures/2026/From%20Web%20Data%20to%20Verifiable%20Worlds%20-%20Ibragim%20Badertdinov.pdf) by Ibragim Badertdinov — how data, evaluations, and RL environments shape modern language models.
 
+- [Efficient LLMs: Principles and Compression Techniques](./materials/lectures/2026/Efficient%20LLMs%20-%20Ilya%20Boytsov.pdf) by Ilya Boytsov — how models store knowledge, why quantization and expert pruning can shrink them without losing most of it, and how to test statistically whether a compressed model actually got worse.
+
 ### Research talks
 
 - [Replication with Language Models](./materials/talks/2026/Replication%20with%20Language%20Models%20-%20Christopher%20Barrie.pdf) by Christopher Barrie (New York University).
@@ -38,7 +40,7 @@ Also given, with slides to follow as they are cleared for release: Margaret E. R
 - [Challenge dataset](https://huggingface.co/datasets/oxford-llms/ai-respondents-challenge) on Hugging Face.
 - [Final leaderboard](https://llmsforsocialscience.net/research/challenge/), including the held-out surveys revealed on the last day.
 
-More 2026 sessions, including efficient inference and compression, inference economics, and the remaining guest talks, will be added here as they are cleared for release.
+More 2026 sessions, including inference economics and the remaining guest talks, will be added here as they are cleared for release.
 
 ## 2025
 
