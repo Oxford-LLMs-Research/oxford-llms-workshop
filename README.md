@@ -8,13 +8,13 @@ Oxford LLMs addresses these challenges by uniting machine learning scientists, l
 
 This collection brings together lecture slides, workshop materials, and practical guides from our past iterations of the "Oxford LLMs" summer school for social sciences. The content spans foundational concepts to advanced applications—from transformer architectures and model interpretability to fine-tuning techniques and LLM agent systems. Whether you’re exploring core NLP principles or specialized implementations like retrieval-augmented generation, these materials provide both theoretical grounding and hands-on guidance. All resources are openly available for researchers, practitioners, and students working with LLMs in their research!
 
-Every edition pairs that technical instruction with **research talks from social scientists** who use these methods in their own empirical work — on opinion prediction, censorship and information control, text-as-data methods, replication, protest and political communication, and the ethics of deploying models in research. Those talks are what keep the school anchored to social science questions rather than to the tooling, and the speakers are credited in each year's section below.
+Every edition pairs that technical instruction with **research talks from social scientists** who use these methods in their own empirical work: on opinion prediction, censorship and information control, text-as-data methods, replication, protest and political communication, and the ethics of deploying models in research. Those talks are what keep the school anchored to social science questions rather than to the tooling, and the speakers are credited in each year's section below.
 
 > **This repository is still growing.** We add materials as speakers clear them for release, so a session missing today may well be here next month. We are also editing the **lecture and research talk recordings** from the school and will publish them openly once post-production is done. Watch this space.
 
 ## 2026
 
-The 2026 school was taught almost entirely by practitioners building language models in industry, and the collaborative research project ran the full week as a live common-task benchmark — the [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge), in which teams predicted individual survey responses and disclosed the features and prompts behind every prediction.
+The 2026 school was taught almost entirely by practitioners building language models in industry, and the collaborative research project ran the full week as a live common-task benchmark, the [AI Respondents Challenge](https://github.com/Oxford-LLMs-Research/ai-respondents-challenge), in which teams predicted individual survey responses and disclosed the features and prompts behind every prediction.
 
 Lectures came from **Tatiana Shavrina** (Meta), **Sagi Shaier** (JGU Mainz), **Ilya Boytsov**, **Ibragim Badertdinov**, and **Sergei Skvortsov** (Nebius), and **Piotr Mazurek** (Liquid.AI). Research talks came from **Margaret E. Roberts** (UC San Diego) on the politics of AI and information control, **Christopher Barrie** (NYU) on replication with language models, **Andreu Casas** (Oxford) on computational methods for political communication, **Elliott Ash** (ETH Zurich) on text-as-data in law and economics, and **Roberto-Rafael Maura-Rivero** (Meta and Oxford) on alignment and social choice.
 
@@ -38,7 +38,7 @@ Also given, with slides to follow as they are cleared for release: Margaret E. R
 - [Challenge dataset](https://huggingface.co/datasets/oxford-llms/ai-respondents-challenge) on Hugging Face.
 - [Final leaderboard](https://llmsforsocialscience.net/research/challenge/), including the held-out surveys revealed on the last day.
 
-More 2026 sessions — including efficient inference and compression, inference economics, and the remaining guest talks — will be added here as they are cleared for release.
+More 2026 sessions, including efficient inference and compression, inference economics, and the remaining guest talks, will be added here as they are cleared for release.
 
 ## 2025
 
